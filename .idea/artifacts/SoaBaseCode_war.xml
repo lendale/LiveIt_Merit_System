@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SoaBaseCode:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SoaBaseCode.war">
+      <element id="artifact" artifact-name="SoaBaseCode:war exploded" />
+    </root>
+  </artifact>
+</component>
